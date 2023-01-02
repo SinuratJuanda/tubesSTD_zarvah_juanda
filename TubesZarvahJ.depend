@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1672153721 source:d:\jurnal3std\tubeszarvahj\child.cpp
+	"TUBES.h"
+
+1672153721 d:\jurnal3std\tubeszarvahj\tubes.h
+	<iostream>
+	<stdlib.h>
+
+1672153721 source:d:\jurnal3std\tubeszarvahj\parent.cpp
+	"TUBES.h"
+
+1672153721 source:d:\jurnal3std\tubeszarvahj\relasi.cpp
+	"TUBES.h"
+
+1672153748 source:d:\jurnal3std\tubeszarvahj\main.cpp
+	"TUBES.h"
+
